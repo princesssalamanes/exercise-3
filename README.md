@@ -5,8 +5,8 @@ Below you have a series of problems in which you are asked to edit the notebook 
 
 ## Completing the exercise
 
-- **Exercise 3 is due by the start of the next lesson (1 PM, 14 March 2022)**.
-- **Remember to save and commit your changes locally, and push your changes to GitHub after each major change**!
+- **Exercise 3 is due by the start of the next lesson (25 March 2022)**.
+- **Remember to save and commit your changes locally (i.e., download your notebooks), and push (or upload) your changes to GitHub after each major change**!
 - **We are [working in pairs](https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/why-pairs.html) on this exercise**, and we will only grade the repository of the member of your pair that is responsible for this week's exercise.
 
 ## Where to find help
@@ -18,7 +18,7 @@ Below you have a series of problems in which you are asked to edit the notebook 
 
 ### Clone the Exercise 3 repository
 
-Before starting to work with the problems for this week, you should start a new JupyterLab instance and clone your own Exercise 3 repository (e.g., `exercise-3-htenkanen`) in the instance using Git as we saw in [**Lesson 2**](https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/git-basics.html#clone-a-repository-from-github).
+Before starting to work with the problems for this week, you should start a new JupyterLab instance and clone your own Exercise 3 repository (e.g., `exercise-3-jdaled`) in the instance using Git as we saw in [**Lesson 2**](https://geo-python-upd.readthedocs.io/en/latest/lessons/L2/git-basics.html#clone-a-repository-from-github).
 
 ## Start working
 
